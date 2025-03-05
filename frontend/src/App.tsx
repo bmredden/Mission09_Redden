@@ -5,7 +5,7 @@ import "./App.css";
 function Welcome() {
   return (
     <>
-      <img src={MMLogo} alt="March Madness Logo" style={{ width: "700px", height: "auto", marginTop: "10px" }} />
+      <img src={MMLogo} alt="March Madness Logo" style={{ width: "100%", height: "auto", marginTop: "10px" }} />
       <h2>Follow your favorite teams through this year's bracket!</h2>
       <br/>
     </>
